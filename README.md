@@ -1,4 +1,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kuah0&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ff4040&text_color=fff&title_color=ff4040" width=49.2% />
+  <a href="https://github.com/Kuah0/github-stats-transparent">
+ <img src="https://raw.githubusercontent.com/Kuah0/github-stats-transparent/output/generated/languages.svg" width=49.2% />
+</a>
 
 
 - 👋 Hi, I’m @Kuah0
