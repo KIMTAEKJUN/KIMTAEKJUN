@@ -7,10 +7,10 @@
 <br><br><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Kuah0&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ff4040&text_color=fff&title_color=ff4040" width=49.2% />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuah0)](https://github.com/Kuah0/github-readme-stats)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=Kuah0&theme=react-dark&bg_color=20232a&hide_border=true&line=ff4040&color=ff4040" width=98%/>
 </a>
-[![Kuah0's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuah0ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Kuah0)
 
 
 
