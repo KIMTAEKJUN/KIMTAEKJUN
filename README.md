@@ -2,7 +2,7 @@
 
 <br><br><br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=FF4040&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Welcome+to+my+Github.+%E3%80%80%E3%80%80)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=FF4040&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Welcome+to+my+Github.+%E3%80%80%E3%80%80)
  
 <br><br><br>
 
