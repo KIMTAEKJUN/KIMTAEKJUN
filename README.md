@@ -1,6 +1,4 @@
 <div align="center">
- 
- # Hello, My name is TaekJun(Kuah)
 
 <br><br><br>
  
