@@ -1,6 +1,6 @@
-<div align="center">
- 
  <h1>Hi, My name is kuah</h1>
+
+<div align="center">
 
 <br><br><br>
  
