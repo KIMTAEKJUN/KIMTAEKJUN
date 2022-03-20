@@ -1,5 +1,3 @@
- <h1>Hi, My name is kuah</h1>
-
 <div align="center">
 
 <br><br><br>
@@ -15,5 +13,6 @@
 </a>
  
 <br><br><br>
-
+ 
+ ## Contact Me
    <a href="https://www.instagram.com/kuah_0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
