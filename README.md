@@ -11,7 +11,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Kuah0&theme=react-dark&bg_color=20232a&hide_border=true&line=ff4040&color=ff4040" width=98%/>
 </a>
  
-<br><br><br>
+<br><br>
  
  <a href="https://www.instagram.com/kuah_0/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kuah_0/"/>
