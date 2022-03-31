@@ -11,6 +11,12 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Kuah0&theme=react-dark&bg_color=20232a&hide_border=true&line=ff4040&color=ff4040" width=98%/>
 </a>
  
+ <br><br>
+ 
+ <h3>🙋‍♂️ 나 🙋‍♂️</h3>
+  <a href="https://www.instagram.com/kuah_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white(https://programmers.co.kr/pr/gdsygrt557422_1290)"/>
+ 
 <br><br>
  
  <h3>🛠 기술스택 🛠</h3>
@@ -19,11 +25,5 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
- 
-<br><br>
- 
- <h3>🙋‍♂️ 나 🙋‍♂️</h3>
-  <a href="https://www.instagram.com/kuah_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white(https://programmers.co.kr/pr/gdsygrt557422_1290)"/>
  
 </div>
