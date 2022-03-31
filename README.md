@@ -13,7 +13,7 @@
  
 <br><br><br>
  
- <a href="https://www.instagram.com/kuah_0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/Kuah_0/"/>
  [![](https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white)](https://programmers.co.kr/pr/gdsygrt557422_1290)
  
 </div>
