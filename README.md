@@ -14,8 +14,9 @@
 <br><br>
  
  <h3>🛠 기술스택 🛠</h3>
- <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
  
 <br><br>
  
