@@ -13,9 +13,12 @@
  
 <br><br>
  
- <a href="https://www.instagram.com/kuah_0/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kuah_0/"/>
- </a> &nbsp
- [![](https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white)](https://programmers.co.kr/pr/gdsygrt557422_1290)
+ <h3>🛠 기술스택 🛠</h3>
+ <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
+ 
+<br><br>
+ 
+<img src="https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white)](https://programmers.co.kr/pr/gdsygrt557422_1290)"/>
  
 </div>
