@@ -13,7 +13,7 @@
  
  <h3>✔ Velog ✔</h3>
  
-  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark)](https://velog.io/@kimtaekjun)
 
  
  <br>
