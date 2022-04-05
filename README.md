@@ -11,7 +11,7 @@
  
  <br><br>
  
- <h3>✔ Blo ✔</h3>
+ <h3>✔ Velog ✔</h3>
  
   ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark)
 
