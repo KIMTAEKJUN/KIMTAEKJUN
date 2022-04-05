@@ -8,11 +8,13 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=KIMTAEKJUN&theme=react-dark&bg_color=20232a&hide_border=true&line=ff4040&color=ff4040" width=98%/>
 </a>
  
- <br>
+ <br><br>
  
  <h3>✔ Velog ✔</h3>
  
   ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun)
+ 
+ <br>
  
  <h3>🙋‍♂️ 나 🙋‍♂️</h3>
  <a href="https://velog.io/@kimtaekjun"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kimtaekjun"/></a>
