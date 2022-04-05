@@ -1,17 +1,18 @@
 <div align="center">
+ 
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=FF4040&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Welcome+to+my+Github!+%E3%80%80%E3%80%80) -->
 
-<br><br><br> 
- 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=FF4040&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Welcome+to+my+Github!+%E3%80%80%E3%80%80)
- 
-<br><br><br>
 
  <img src="https://github-readme-stats.vercel.app/api?username=KIMTAEKJUN&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ff4040&text_color=fff&title_color=ff4040" width=50% />
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=KIMTAEKJUN&theme=react-dark&bg_color=20232a&hide_border=true&line=ff4040&color=ff4040" width=98%/>
 </a>
  
- <br><br>
+ <br>
+ 
+ <h3>✔ Velog ✔</h3>
+ 
+  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun)
  
  <h3>🙋‍♂️ 나 🙋‍♂️</h3>
  <a href="https://velog.io/@kimtaekjun"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kimtaekjun"/></a>
