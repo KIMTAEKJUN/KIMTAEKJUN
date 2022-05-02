@@ -1,4 +1,18 @@
 <div align="center"> 
+
+ <h1>💻 Project 💻</h1> <br>
+ 
+  [![ByeongPyung/Sofong - GitHub](https://gh-card.dev/repos/ByeongPyung/Sofong.svg)](https://github.com/ByeongPyung/Sofong)
+ 
+  <br><br>
+ 
+ <h1>✔ Velog ✔</h1> <br>
+ 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=자기소개)](https://velog.io/@kimtaekjun)
+ <br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark)](https://velog.io/@kimtaekjun)
+ 
+  <br><br>
  
  <h1>🙋‍♂️ My 🙋‍♂️</h1> <br>
  <a href="https://velog.io/@kimtaekjun"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kimtaekjun"/></a>
@@ -15,17 +29,3 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
-
- <br><br>
- 
- <h1>💻 Project 💻</h1> <br>
- 
-  [![ByeongPyung/Sofong - GitHub](https://gh-card.dev/repos/ByeongPyung/Sofong.svg)](https://github.com/ByeongPyung/Sofong)
- 
-  <br><br>
- 
- <h1>✔ Velog ✔</h1> <br>
- 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=자기소개)](https://velog.io/@kimtaekjun)
- <br>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark)](https://velog.io/@kimtaekjun)
