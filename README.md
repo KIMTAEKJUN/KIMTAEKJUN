@@ -26,6 +26,6 @@
 
  <br><br>
  
- <h1>💻 Project 💻</h1> <br>
+<!--  <h1>💻 Project 💻</h1> <br>
  
-  [![ByeongPyung/Sofong - GitHub](https://gh-card.dev/repos/ByeongPyung/Sofong.svg)](https://github.com/ByeongPyung/Sofong)
+  [![ByeongPyung/Sofong - GitHub](https://gh-card.dev/repos/ByeongPyung/Sofong.svg)](https://github.com/ByeongPyung/Sofong) -->
