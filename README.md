@@ -1,5 +1,5 @@
 ```rust
-Profile = {
+My_Profile = {
   github = "KIMTAEKJUN",
   email = "gdsygrt557422@naver.com",
   front = HTML5, CSS, SASS, JAVASCRIPT,
