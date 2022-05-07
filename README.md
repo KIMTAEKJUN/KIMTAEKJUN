@@ -1,5 +1,5 @@
- ```
- KIMTAEKJUN = {
+ ```rust
+Profile = {
   github = "KIMTAEKJUN",
   email = "gdsygrt557422@naver.com",
   stack = JAVASCRIPT, JAVA, PYTHON, MYSQL
