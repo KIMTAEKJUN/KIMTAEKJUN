@@ -1,7 +1,7 @@
 ```JS
 My_Profile = {
     github : 'KIMTAEKJUN',
-    email : gdsygrt557422@naver.com',
+    email : 'gdsygrt557422@naver.com',
     front : 'HTML5, CSS, SASS, JAVASCRIPT',
     back : 'JAVA, PYTHON, MYSQL',
     studying : 'DJANGO, SPRING_BOOT, MONGO_DB'
