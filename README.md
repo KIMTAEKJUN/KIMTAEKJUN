@@ -15,6 +15,11 @@ My_Profile = {
  <a href="https://velog.io/@kimtaekjun"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kimtaekjun"/></a>
  <a href="https://www.instagram.com/kuah_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
   <a href="https://programmers.co.kr/pr/gdsygrt557422_1290"><img src="https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white(https://programmers.co.kr/pr/gdsygrt557422_1290)"/></a>
+
+<br><br>
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wns4126)](https://solved.ac/wns4126/)
+<a href="https://opgc.me/#/users/KIMTAEKJUN" target="_blank"><img width="400" height="170" src="https://api.opgc.me/githubs/users/KIMTAEKJUN/tag/?theme=prism" /></a> 
  
 <!-- <br><br>
  
@@ -34,10 +39,6 @@ My_Profile = {
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=자기소개)](https://velog.io/@kimtaekjun)
  <br>
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark)](https://velog.io/@kimtaekjun)
- 
-<!-- <br><br>
-
-    <a href="https://opgc.me/#/users/KIMTAEKJUN" target="_blank"><img src="https://api.opgc.me/githubs/users/KIMTAEKJUN/tag/?theme=basic" /></a> -->
     
 <!--  <h1>💻 Project 💻</h1> <br>
  
