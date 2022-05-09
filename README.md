@@ -28,7 +28,7 @@ My_Profile = {
 <br><br>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wns4126)](https://solved.ac/wns4126/)
-<a href="https://opgc.me/#/users/KIMTAEKJUN" target="_blank"><img height="172" src="https://api.opgc.me/githubs/users/KIMTAEKJUN/tag/?theme=prism" /></a>
+<a href="https://opgc.me/#/users/KIMTAEKJUN" target="_blank"><img height="172" src="https://api.opgc.me/githubs/users/KIMTAEKJUN/tag/?theme=dracula" /></a>
     
 
  
