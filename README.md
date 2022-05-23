@@ -22,8 +22,9 @@ My_Profile = {
  <h3>✔ Velog ✔</h3>
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=자기소개)](https://velog.io/@kimtaekjun)
-<br>
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark)](https://velog.io/@kimtaekjun)
+ <br>
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=마지막)](https://velog.io/@kimtaekjun)
 
 <br><br>
     
