@@ -22,8 +22,8 @@ My_Profile = {
  <h3>✔ Velog ✔</h3>
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=자기소개)](https://velog.io/@kimtaekjun)
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=마지막)](https://velog.io/@kimtaekjun)
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=신세한탄)](https://velog.io/@kimtaekjun)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=마지막)]([https://velog.io/@kimtaekjun](https://velog.io/@kimtaekjun/%EA%B3%A03-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9D%84-%EC%95%9E%EB%91%90%EA%B3%A0-.-.-))
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=신세한탄)]([https://velog.io/@kimtaekjun](https://velog.io/@kimtaekjun/3%EB%85%84%EA%B0%84-%EB%82%B4-%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90-%EC%83%9D%ED%99%9C%EC%97%90-%EB%8C%80%ED%95%B4-.-.-))
 
 <br><br>
     
