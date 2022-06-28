@@ -1,16 +1,13 @@
-```JS
+<!-- ```JS
 My_Profile = {
     github : 'KIMTAEKJUN',
     email : 'gdsygrt557422@naver.com, kuahfire0408@naver.com',
-    front : 'HTML, CSS, SASS, JavaScript',
-    back : 'Java, Python, MySQL',
-    studying : 'Spring-Boot, NodeJS, Kotlin'
+    front : 'HTML, CSS, SASS, JAVASCRIPT',
+    back : 'JAVA, PYTHON, MYSQL',
+    studying : 'SPRING_BOOT, NODEJS, KOTILN'
 }
-```
-
+``` -->
 <div align="center">  
-    
-<br><br>
     
  <h3>🙋‍♂️ My 🙋‍♂️</h3>
  <a href="https://velog.io/@kimtaekjun"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kimtaekjun"/></a>
