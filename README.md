@@ -1,12 +1,12 @@
-<!-- ```JS
+```JS
 My_Profile = {
     github : 'KIMTAEKJUN',
     email : 'gdsygrt557422@naver.com, kuahfire0408@naver.com',
     front : 'HTML, CSS, SASS, JAVASCRIPT',
     back : 'JAVA, PYTHON, MYSQL',
-    studying : 'SPRING_BOOT, NODEJS, KOTILN'
+    studying : 'SPRING_BOOT, NODEJS, FLUTTER, DART'
 }
-``` -->
+```
 <div align="center">  
     
  <h3>🙋‍♂️ My 🙋‍♂️</h3>
