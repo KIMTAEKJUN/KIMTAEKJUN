@@ -4,7 +4,7 @@ My_Profile = {
     email : 'gdsygrt557422@naver.com, kuahfire0408@naver.com',
     front : 'HTML, CSS, SASS, JAVASCRIPT',
     back : 'JAVA, PYTHON, MYSQL',
-    studying : 'SPRING_BOOT, NODEJS, FLUTTER, DART'
+    studying : 'SPRING_BOOT, NODEJS, KOTLIN'
 }
 ```
 <div align="center">  
