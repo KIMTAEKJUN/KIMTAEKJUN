@@ -1,6 +1,6 @@
-<!-- Main Color : ff4040 -->
+<!-- Main Color : ff4040, ff7f7f -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=180&section=header&text=KIMTAEKJUN&fontSize=50&animation=fadeIn&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=180&section=header&text=KIMTAEKJUN&fontSize=50&animation=fadeIn&fontAlignY=45&fontColor=ff7f7f"/>
 
  <h3>🙋‍♂️ My 🙋‍♂️</h3>
  <a href="https://velog.io/@kimtaekjun"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kimtaekjun"/></a>
