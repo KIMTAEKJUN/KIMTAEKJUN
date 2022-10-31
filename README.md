@@ -1,12 +1,3 @@
-<!-- ```JS
-My_Profile = {
-    github : 'KIMTAEKJUN',
-    email : 'gdsygrt557422@gmail.com',
-    front : 'HTML, CSS, SCSS, JAVASCRIPT',
-    back : 'JAVA, PYTHON, MYSQL',
-    studying : 'SPRING_BOOT, NODEJS, KOTLIN'
-}
-``` -->
 <!-- Main Color : ff4040 -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=180&section=header&text=KIMTAEKJUN&fontSize=50&animation=fadeIn&fontAlignY=45"/>
@@ -19,11 +10,11 @@ My_Profile = {
     
 <br><br>
    
-<h3>🛠 Languages 🛠</h3>
+<!-- <h3>🛠 Languages 🛠</h3>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
-<!--   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> -->
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 <h3>🛠 Framework 🛠</h3>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -36,7 +27,7 @@ My_Profile = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-<br><br>
+<br><br> -->
     
  <h3>✔ Velog ✔</h3>
 
