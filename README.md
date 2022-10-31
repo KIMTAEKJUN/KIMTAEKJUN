@@ -9,9 +9,8 @@ My_Profile = {
 ``` -->
 <!-- Main Color : ff4040 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=180&section=header&text=Taekjun&fontSize=50&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=180&section=header&text=KIMTAEKJUN&fontSize=50&animation=fadeIn&fontAlignY=45" />
 
-    
  <h3>🙋‍♂️ My 🙋‍♂️</h3>
  <a href="https://velog.io/@kimtaekjun"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kimtaekjun"/></a>
  <a href="https://www.instagram.com/kuah_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
@@ -19,7 +18,7 @@ My_Profile = {
  <!-- <a href="https://programmers.co.kr/pr/gdsygrt557422_1290"><img src="https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white(https://programmers.co.kr/pr/gdsygrt557422_1290)"/></a> -->
     
 <br><br>
-
+    
  <h3>✔ Velog ✔</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&color=dark&tag=자기소개)](https://velog.io/@kimtaekjun)
