@@ -4,7 +4,6 @@
 
  <h3>🙋‍♂️ My 🙋‍♂️</h3>
  <a href="https://velog.io/@kimtaekjun"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kimtaekjun"/></a>
- <a href="https://www.instagram.com/kuah_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
  <a href="https://kimtaekjun.notion.site/KIMTAEKJUN-bb65f794deae4509a53823e83a21bbc5/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/kimtaekjun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://my.surfit.io/w/258029467"><img src="https://img.shields.io/badge/SURFIT-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></a>
