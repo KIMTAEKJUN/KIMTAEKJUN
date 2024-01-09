@@ -1,4 +1,3 @@
-<!-- Main Color : ff4040, ff7f7f -->
 <div align="center">
 
  <h3>🙋‍♂️ My 🙋‍♂️</h3>
@@ -11,5 +10,7 @@
     
  <h3>✔ Velog ✔</h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&tag=자기소개)](https://velog.io/@kimtaekjun/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&tag=마지막)](https://velog.io/@kimtaekjun/%EB%B0%A9%ED%99%A9%ED%95%98%EB%8D%98-%EB%82%B4%EA%B0%80-%EB%8C%80%ED%95%99%EC%83%9D%EC%9D%B4-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80-2022%EB%85%84-%ED%9A%8C%EA%B3%A0-7en3rz94)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&tag=회고록)](https://velog.io/@kimtaekjun/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&tag=신세한탄)](https://velog.io/@kimtaekjun/%EB%B0%A9%ED%99%A9%ED%95%98%EB%8D%98-%EB%82%B4%EA%B0%80-%EB%8C%80%ED%95%99%EC%83%9D%EC%9D%B4-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80-2022%EB%85%84-%ED%9A%8C%EA%B3%A0-7en3rz94)
+
+</div>
