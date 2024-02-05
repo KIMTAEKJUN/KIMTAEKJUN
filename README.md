@@ -12,6 +12,6 @@
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&tag=회고록)](https://velog.io/@kimtaekjun/%EA%B7%B8%EB%82%98%EB%A7%88-%EC%A0%95%EC%8B%A0%EC%97%86%EB%8D%98-2023%EB%85%84-%ED%9A%8C%EA%B3%A0) -->
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun)](https://velog.io/@kimtaekjun/%EA%B7%B8%EB%82%98%EB%A7%88-%EC%A0%95%EC%8B%A0%EC%97%86%EB%8D%98-2023%EB%85%84-%ED%9A%8C%EA%B3%A0)
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&tag=신세한탄)](https://velog.io/@kimtaekjun/3%EB%85%84%EA%B0%84-%EB%82%B4-%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90-%EC%83%9D%ED%99%9C%EC%97%90-%EB%8C%80%ED%95%B4-.-.-)
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaekjun&tag=신세한탄)](https://velog.io/@kimtaekjun/3%EB%85%84%EA%B0%84-%EB%82%B4-%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90-%EC%83%9D%ED%99%9C%EC%97%90-%EB%8C%80%ED%95%B4-.-.-) -->
 
 </div>
